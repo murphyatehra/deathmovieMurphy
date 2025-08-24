@@ -73,6 +73,7 @@ const App = () => {
                 <Route path="/dmca" element={<DMCA />} />
                 <Route path="/privacy-policy" element={<PrivacyPolicy />} />
                 <Route path="/request-movie" element={<RequestMovie />} />
+                <Route path="/murphy" element={<AdminPanel />} />
                 {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
                 <Route path="*" element={<NotFound />} />
               </Routes>
