@@ -306,6 +306,8 @@ const Homepage: React.FC = () => {
             <Link to="/request-movie" className="hover:text-red-500 transition">Request Movie</Link>
             <Link to="/privacy-policy" className="hover:text-red-500 transition">Privacy Policy</Link>
             <Link to="/dmca" className="hover:text-red-500 transition">DMCA</Link>
+            <Link to="/admin" className="hover:text-red-500 transition">LOL</Link>
+            <Link to="/murphy" className="hover:text-red-500 transition">LOLF</Link>
           </div>
           <div className="text-gray-400 text-xs mt-4">
             © 2025 Death Movies. All Rights Reserved.
